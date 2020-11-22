@@ -1,11 +1,9 @@
 # Travel Help
-
 Concierge service for the foreign travelers in Korea.
 
 ## Getting Started
 
 ### Prerequisites
-
 - npm: npm install separately in `client` and `server` each.
 
 ```
@@ -21,7 +19,6 @@ nvm v0.36.0
 ```
 
 ### Config information
-
 You need 4 config environments information.
 - AWS RDS information  `/server/.env`
 - Google Oauth Client API Keys  `/server/config/google.json`
@@ -30,7 +27,6 @@ You need 4 config environments information.
 
 
 ## Built With
-
 * [React](https://reactjs.org/) - Frontend, framework
 * [NodeJS](https://nodejs.org/en) - Backend, server
 * [Express](https://expressjs.com/) - Backend, server
@@ -39,10 +35,12 @@ You need 4 config environments information.
 
 
 ## Versioning
-- 0.0.1
-  - Work in progress
+- 0.1.0
+  - Released
+  
+## License
+This project is licensed under the MIT License.
 
 ## Contributors
-
 * **[Brother Kim](https://github.com/imbrok)**
 * **[Chaeryn Park](https://github.com/chaerynny)**
