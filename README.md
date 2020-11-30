@@ -15,6 +15,7 @@
 ```
 
 ### Versions
+
 ```
 nodeJS v14.15.1 (nvm v0.37.0)
 npm v6.14.8
@@ -59,6 +60,7 @@ You need 4 config environments information. (these files listed on `.gitignore` 
 * [Express](https://expressjs.com/) - Backend, server
 * [Mysql](https://www.mysql.com/) - Backend, DB
 * [Sequelize](https://sequelize.org/master) - Backend, ORM
+
 
 ## Versioning
 - 0.1.0 | Nov/22/2020
